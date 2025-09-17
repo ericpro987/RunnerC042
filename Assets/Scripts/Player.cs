@@ -6,7 +6,12 @@ public class Player : MonoBehaviour
     private InputSystem_Actions action;
     private Rigidbody2D rb;
     private SpriteRenderer sr;
+    [SerializeField]
     private int hp;
+    [SerializeField]
+    private int velocity;
+    [SerializeField]
+    private float pos;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {
@@ -26,6 +31,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        pos = transform.position.x;
         if (hp > 3)
         {
             sr.color = new Color(0, Mathf.Sin(Time.time), 0);
@@ -46,15 +52,26 @@ public class Player : MonoBehaviour
     }
     private void Move()
     {
-        Vector2 dir = action.Player.Move.ReadValue<Vector2>()*3;
-        rb.linearVelocity = dir;
+        if (pos < 0)
+        {
+            Vector2 dir = action.Player.Move.ReadValue<Vector2>() * velocity;
+            rb.linearVelocity = dir;
+        }
+        else
+        {
+            this.transform.position = new Vector3(-0.01f,this.transform.position.y,this.transform.position.z);
+        }
     }
     private void Jump(InputAction.CallbackContext context)
     {
-        rb.AddForce(new Vector2(0, 500));
+        rb.AddForce(new Vector2(0, 800));
     }
-    private void receiveDamage()
+    public void receiveDamage()
     {
         this.hp--;
+        if (this.hp <= 0) { 
+        
+            Destroy(this.gameObject);
+        }
     }
 }
