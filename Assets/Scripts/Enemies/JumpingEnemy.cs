@@ -9,7 +9,7 @@ public class JumpingEnemy : MonoBehaviour
     {
         jumpTime = Random.Range(1, 4);
         rb = GetComponent<Rigidbody2D>();
-        rb.linearVelocity = new Vector3(-3, 0, 0);
+        rb.linearVelocity = new Vector3(-5, 0, 0);
         StartCoroutine(Jump());
     }
 
@@ -22,7 +22,7 @@ public class JumpingEnemy : MonoBehaviour
     {
         if (collision.transform.tag == "Player")
         {
-            collision.transform.GetComponent<Player>().receiveDamage();
+            collision.transform.GetComponent<Player>().receiveDamage(1);
             Destroy(this.gameObject);
         }
         if (collision.transform.tag == "Finish")

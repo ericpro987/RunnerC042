@@ -11,6 +11,8 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField]
     JumpingEnemy jumpingEnemy;
     [SerializeField]
+    GiantEnemy giantEnemy;
+    [SerializeField]
     int spawnTime;
     [SerializeField]
     GameManager gameManager;
@@ -47,6 +49,31 @@ public class EnemySpawner : MonoBehaviour
                 {
                     JumpingEnemy e = Instantiate(jumpingEnemy);
                     e.transform.position = new Vector3(12.18f, -3, 0);
+                }
+            }
+            else
+            {
+                int chooseEnemy = Random.Range(0, 8);
+                switch (chooseEnemy)
+                {
+                    case 0:
+                    case 1:
+                    case 2:
+                    case 3:
+                        Enemy e = Instantiate(enemy);
+                        e.transform.position = new Vector3(12.18f, -3, 0);
+                        break;
+                    case 4:
+                    case 5:
+                    case 6:
+                        JumpingEnemy e2 = Instantiate(jumpingEnemy);
+                        e2.transform.position = new Vector3(12.18f, -3, 0);
+                        break;
+                    case 7:
+                        GiantEnemy e3 = Instantiate(giantEnemy);
+                        e3.transform.position = new Vector3(12.18f, -3, 0);
+                        break;
+                         
                 }
             }
                 yield return new WaitForSeconds(spawnTime);

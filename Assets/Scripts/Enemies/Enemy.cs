@@ -17,7 +17,7 @@ public class Enemy : MonoBehaviour
     {
         if (collision.transform.tag == "Player")
         {
-            collision.transform.GetComponent<Player>().receiveDamage();
+            collision.transform.GetComponent<Player>().receiveDamage(1);
             Destroy(this.gameObject);
         }
         if(collision.transform.tag == "Finish")

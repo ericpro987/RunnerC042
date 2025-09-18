@@ -13,6 +13,8 @@ public class Player : MonoBehaviour
     private int velocity;
     [SerializeField]
     private float pos;
+    [SerializeField]
+    private Bullet bullet;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {
@@ -21,6 +23,7 @@ public class Player : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         action = new InputSystem_Actions();
         action.Player.Jump.started += Jump;
+        action.Player.Attack.started += Shoot;
         //action.Player.Jump.performed += Jump;
         action.Enable();
     }
@@ -45,10 +48,6 @@ public class Player : MonoBehaviour
             sr.color = new Color(Mathf.Sin(Time.time), 0, 0);
         }
         Move();
-        if (Input.GetKeyDown(KeyCode.Z))
-        {
-            receiveDamage();
-        }
     }
     private void Move()
     {
@@ -71,15 +70,31 @@ public class Player : MonoBehaviour
         rb.gravityScale = 0;
         rb.AddForce(new Vector2(0,900));
         StartCoroutine(GravityReset());
-    }   
+    }
+    bool cooldown = false;
+    private void Shoot(InputAction.CallbackContext context)
+    {
+        if (!cooldown)
+        {
+            cooldown = true;
+            Bullet b = Instantiate(bullet);
+            b.transform.position = this.transform.position;
+            StartCoroutine(resetCooldown());
+        }
+    }
+    IEnumerator resetCooldown()
+    {
+        yield return new WaitForSeconds(1);
+        cooldown = false;
+    }
     IEnumerator GravityReset()
     {
         yield return new WaitForSeconds(0.4f);
         rb.gravityScale = 5;
     }
-    public void receiveDamage()
+    public void receiveDamage(int damage)
     {
-        this.hp--;
+        this.hp-=damage;
         if (this.hp <= 0) { 
         
             Destroy(this.gameObject);
