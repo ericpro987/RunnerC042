@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -25,7 +26,6 @@ public class Player : MonoBehaviour
     }
     void Start()
     {
-        
     }
 
     // Update is called once per frame
@@ -52,19 +52,30 @@ public class Player : MonoBehaviour
     }
     private void Move()
     {
-        if (pos < 0)
+        if (pos < 0 && pos > -11)
         {
             Vector2 dir = action.Player.Move.ReadValue<Vector2>() * velocity;
             rb.linearVelocity = dir;
         }
         else
         {
-            this.transform.position = new Vector3(-0.01f,this.transform.position.y,this.transform.position.z);
+            if( pos >= 0)
+                this.transform.position = new Vector3(-0.01f,this.transform.position.y,this.transform.position.z);
+            else if(pos <= -11)
+                this.transform.position = new Vector3(-10.99f, this.transform.position.y, this.transform.position.z);
+
         }
     }
     private void Jump(InputAction.CallbackContext context)
     {
-        rb.AddForce(new Vector2(0, 800));
+        rb.gravityScale = 0;
+        rb.AddForce(new Vector2(0,900));
+        StartCoroutine(GravityReset());
+    }   
+    IEnumerator GravityReset()
+    {
+        yield return new WaitForSeconds(0.4f);
+        rb.gravityScale = 5;
     }
     public void receiveDamage()
     {

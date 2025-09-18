@@ -20,5 +20,9 @@ public class Enemy : MonoBehaviour
             collision.transform.GetComponent<Player>().receiveDamage();
             Destroy(this.gameObject);
         }
+        if(collision.transform.tag == "Finish")
+        {
+            Destroy(this.gameObject);
+        }
     }
 }
