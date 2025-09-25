@@ -8,16 +8,23 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     [SerializeField]
-    private int hp;
+    private float hp;
     [SerializeField]
     private int velocity;
     [SerializeField]
     private float pos;
     [SerializeField]
     private Bullet bullet;
+    [SerializeField]
+    private int maxJump = 1;
+    [SerializeField]
+    private int nJumps;
+    [SerializeField]
+    private Smiley smiley;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {
+        nJumps = maxJump;
         hp = 5;
         sr = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
@@ -67,9 +74,13 @@ public class Player : MonoBehaviour
     }
     private void Jump(InputAction.CallbackContext context)
     {
-        rb.gravityScale = 0;
-        rb.AddForce(new Vector2(0,900));
-        StartCoroutine(GravityReset());
+        if (nJumps > 0)
+        {
+            nJumps--;
+            rb.gravityScale = 0;
+            rb.AddForce(new Vector2(0, 900));
+            StartCoroutine(GravityReset());
+        }
     }
     bool cooldown = false;
     private void Shoot(InputAction.CallbackContext context)
@@ -95,9 +106,22 @@ public class Player : MonoBehaviour
     public void receiveDamage(int damage)
     {
         this.hp-=damage;
-        if (this.hp <= 0) { 
-        
-            Destroy(this.gameObject);
+        if (this.hp <= 0) {
+            new WaitForSeconds(Random.Range(3,11));
+            smiley.gameObject.SetActive(true);
         }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.transform.tag == "Floor")
+        {
+            nJumps = maxJump;
+        }
+    }
+    private void OnDestroy()
+    {
+        action.Player.Jump.started -= Jump;
+        action.Player.Attack.started -= Shoot;
+        action.Disable();
     }
 }

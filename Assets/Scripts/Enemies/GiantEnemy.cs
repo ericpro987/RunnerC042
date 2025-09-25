@@ -4,11 +4,16 @@ public class GiantEnemy : MonoBehaviour
 {
     private int hp;
     private SpriteRenderer sr;
+    private Rigidbody2D rb;
     void Start()
     {
+        rb = this.GetComponent<Rigidbody2D>();
         sr = this.GetComponent<SpriteRenderer>();
-        hp = 20;
-        this.GetComponent<Rigidbody2D>().linearVelocity = new Vector3(-1, 0, 0);
+        hp = 5;
+    }
+    private void Update()
+    {
+        rb.linearVelocity = new Vector3(-1, 0, 0);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

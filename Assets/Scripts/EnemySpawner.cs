@@ -16,9 +16,12 @@ public class EnemySpawner : MonoBehaviour
     int spawnTime;
     [SerializeField]
     GameManager gameManager;
+    [SerializeField]
+    private int nBoss;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        nBoss = 1;
         gameManager.changeRound += NextRound;
         spawnTime = 3;
         StartCoroutine(SpawnEnemies());
@@ -70,9 +73,18 @@ public class EnemySpawner : MonoBehaviour
                         e2.transform.position = new Vector3(12.18f, -3, 0);
                         break;
                     case 7:
-                        GiantEnemy e3 = Instantiate(giantEnemy);
-                        e3.transform.position = new Vector3(12.18f, -3, 0);
-                        break;
+                        if (nBoss > 0)
+                        {
+                            GiantEnemy e3 = Instantiate(giantEnemy);
+                            e3.transform.position = new Vector3(12.18f, 0, 0);
+                            nBoss--;
+                        }
+                        else
+                        {
+                            e = Instantiate(enemy);
+                            e.transform.position = new Vector3(12.18f, -3, 0);
+                        }
+                            break;
                          
                 }
             }
@@ -84,6 +96,10 @@ public class EnemySpawner : MonoBehaviour
         if (spawnTime > 2)
         {
             spawnTime -= 1;
+        }
+        if(gameManager.round > 3)
+        {
+            nBoss++;
         }
     }
 }

@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: 669fc49eb9be94c4fbecf5f8ad787fc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 190837026861953718
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_0
+  - first:
+      213: 1329415795389804884
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_1
+  - first:
+      213: 1349221758425821145
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_2
+  - first:
+      213: -5523204582012003815
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_3
+  - first:
+      213: -8048496398649975751
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_4
+  - first:
+      213: 6187315005693882617
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_5
+  - first:
+      213: -9177573444172196227
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_6
+  - first:
+      213: -7100929131075323983
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_7
+  - first:
+      213: -4552175665466643489
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_8
+  - first:
+      213: 7779761473525043519
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_9
+  - first:
+      213: 542952895361659330
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_10
+  - first:
+      213: 6407664760003091754
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_11
+  - first:
+      213: 7775878047193634792
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_12
+  - first:
+      213: -1930039791537744021
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_13
+  - first:
+      213: -1902299267429533072
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_14
+  - first:
+      213: -4384220505736738008
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_15
+  - first:
+      213: 3790626792233999456
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_16
+  - first:
+      213: 6540478175316159728
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_17
+  - first:
+      213: 2888159667823878195
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_18
+  - first:
+      213: 7385370245757245543
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_19
+  - first:
+      213: -3189664197796801097
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_20
+  - first:
+      213: -6061722349969176695
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_21
+  - first:
+      213: 947977246166313910
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_22
+  - first:
+      213: 6568969844319393275
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_23
+  - first:
+      213: -811931238875347510
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_24
+  - first:
+      213: -719001623802984026
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_25
+  - first:
+      213: -9161929663905516318
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_26
+  - first:
+      213: -7118578611822098478
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_27
+  - first:
+      213: 8274351276632186620
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_28
+  - first:
+      213: 8477295278949395342
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_29
+  - first:
+      213: -7768489235897424845
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_30
+  - first:
+      213: -6494719262984337821
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_31
+  - first:
+      213: 5281561155428601770
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_32
+  - first:
+      213: -1768940071121445800
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_33
+  - first:
+      213: -3290712702807070912
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_34
+  - first:
+      213: -5752600137284317778
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_35
+  - first:
+      213: 5100513580291946095
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_36
+  - first:
+      213: 3146291608482636316
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_37
+  - first:
+      213: 4480250019590182836
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_38
+  - first:
+      213: 2636963878556087825
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_39
+  - first:
+      213: -6192651434886917665
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_40
+  - first:
+      213: 6849069104085998615
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_41
+  - first:
+      213: -2352012710225740997
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_42
+  - first:
+      213: 348991349644713677
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_43
+  - first:
+      213: 393798483851206848
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_44
+  - first:
+      213: 1032421276913588687
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_45
+  - first:
+      213: 7989779049979469135
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_46
+  - first:
+      213: -8039400719713460799
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_47
+  - first:
+      213: 6791490274670350381
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_48
+  - first:
+      213: -8383191022084734272
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_49
+  - first:
+      213: -355558714781521421
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_50
+  - first:
+      213: -1619898839600868221
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_51
+  - first:
+      213: -3257426310764664813
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_52
+  - first:
+      213: -7140260485393693086
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_53
+  - first:
+      213: 2637803972657822175
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_54
+  - first:
+      213: -8713542728062336802
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_55
+  - first:
+      213: 6921858181996881197
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_56
+  - first:
+      213: 3918405891242795320
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_57
+  - first:
+      213: 8167176350435872374
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_58
+  - first:
+      213: 1698490635757646512
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_59
+  - first:
+      213: 1984401065944735241
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_60
+  - first:
+      213: -7898705561455048164
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_61
+  - first:
+      213: -1880519770007566928
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_62
+  - first:
+      213: 8318298982709908286
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_63
+  - first:
+      213: -5664603109826267529
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_64
+  - first:
+      213: 8056670492827809267
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_65
+  - first:
+      213: -6441936356499162054
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_66
+  - first:
+      213: -5608483266168444038
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_67
+  - first:
+      213: 2676329974625800990
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_68
+  - first:
+      213: -5039438307284487965
+    second: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2391cc34df5a200800000000000000
+      internalID: 190837026861953718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 518
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451b0035f98037210800000000000000
+      internalID: 1329415795389804884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 518
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfe2327a0669b210800000000000000
+      internalID: 1349221758425821145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 518
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a5d5322b2a953b0800000000000000
+      internalID: -5523204582012003815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 518
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c157e0b2ffd4090800000000000000
+      internalID: -8048496398649975751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 517
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0f3d34732cdd550800000000000000
+      internalID: 6187315005693882617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 517
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76de00d395b2a080800000000000000
+      internalID: -9177573444172196227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 517
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7380fd39e647d90800000000000000
+      internalID: -7100929131075323983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 517
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbeea8c95c63d0c0800000000000000
+      internalID: -4552175665466643489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31daba57d347fb60800000000000000
+      internalID: 7779761473525043519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c13dc918c4f88700800000000000000
+      internalID: 542952895361659330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 386
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dd5c366299ce850800000000000000
+      internalID: 6407664760003091754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 453
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e71cb3b2e779eb60800000000000000
+      internalID: 7775878047193634792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 386
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67160f090f1735e0800000000000000
+      internalID: -1930039791537744021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 453
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a706425eca995e0800000000000000
+      internalID: -1902299267429533072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 453
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b049abdae1823c0800000000000000
+      internalID: -4384220505736738008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 386
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c9f23ebf20b9430800000000000000
+      internalID: 3790626792233999456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 452
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc2aec5f3274ca50800000000000000
+      internalID: 6540478175316159728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_18
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 452
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330a04f6aedc41820800000000000000
+      internalID: 2888159667823878195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 451
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7689911fb1b1e7660800000000000000
+      internalID: 7385370245757245543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 451
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b55a89cf490cb3d0800000000000000
+      internalID: -3189664197796801097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 451
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9878a0b93af60eba0800000000000000
+      internalID: -6061722349969176695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb65e46844e72d00800000000000000
+      internalID: 947977246166313910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 318
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf519eef44ba92b50800000000000000
+      internalID: 6568969844319393275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 318
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5cacc07d07bb4f0800000000000000
+      internalID: -811931238875347510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 317
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a94b4425d79506f0800000000000000
+      internalID: -719001623802984026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 317
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e43ccd33894ad080800000000000000
+      internalID: -9161929663905516318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 385
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d786a8e77ab53d90800000000000000
+      internalID: -7118578611822098478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 385
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe167e85a664d270800000000000000
+      internalID: 8274351276632186620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_29
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 384
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8befdd342765a570800000000000000
+      internalID: 8477295278949395342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_30
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 383
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33463ecf238c03490800000000000000
+      internalID: -7768489235897424845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 383
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3668ee5ad3f1ed5a0800000000000000
+      internalID: -6494719262984337821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafc2d053efdb4940800000000000000
+      internalID: 5281561155428601770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 246
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c1ad7a0667377e0800000000000000
+      internalID: -1768940071121445800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 245
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047a1535b3a0552d0800000000000000
+      internalID: -3290712702807070912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 244
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead0e4a57a8aa20b0800000000000000
+      internalID: -5752600137284317778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_36
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 244
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f667b5dd31aa8c640800000000000000
+      internalID: 5100513580291946095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 241
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1266635c8fd9ab20800000000000000
+      internalID: 3146291608482636316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 316
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b71c9ac7ab0d2e30800000000000000
+      internalID: 4480250019590182836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_39
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 240
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1163fd22da0689420800000000000000
+      internalID: 2636963878556087825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 314
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd190cd74584f0aa0800000000000000
+      internalID: -6192651434886917665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_41
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 314
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c162fef08cc0f50800000000000000
+      internalID: 6849069104085998615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_42
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 314
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b7acbc6e8fb5fd0800000000000000
+      internalID: -2352012710225740997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dced14198cdd7d400800000000000000
+      internalID: 348991349644713677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 168
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0e90772ad077500800000000000000
+      internalID: 393798483851206848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 166
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc95dfc6ea5e35e00800000000000000
+      internalID: 1032421276913588687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_46
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 165
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d52ebd6b561ee60800000000000000
+      internalID: 7989779049979469135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 164
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd9576d3af4e6090800000000000000
+      internalID: -8039400719713460799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 161
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d201f350c68304e50800000000000000
+      internalID: 6791490274670350381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 160
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c245647e2ce8ab80800000000000000
+      internalID: -8383191022084734272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_50
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 158
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f927a49b3dc01bf0800000000000000
+      internalID: -355558714781521421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 238
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384d5858696f489e0800000000000000
+      internalID: -1619898839600868221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_52
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 237
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3186cd8670c4bc2d0800000000000000
+      internalID: -3257426310764664813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_53
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 236
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266c9545be2b8ec90800000000000000
+      internalID: -7140260485393693086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd93269ccbc5b9420800000000000000
+      internalID: 2637803972657822175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 87
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed008ae1e07431780800000000000000
+      internalID: -8713542728062336802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_56
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 85
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d252e8bc7516f0060800000000000000
+      internalID: 6921858181996881197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 83
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8312351c569f06630800000000000000
+      internalID: 3918405891242795320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 81
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e83b18e93a75170800000000000000
+      internalID: 8167176350435872374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 76
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b279a6fb30429710800000000000000
+      internalID: 1698490635757646512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_60
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 75
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eda8371420a8b10800000000000000
+      internalID: 1984401065944735241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_61
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 73
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ac1181429226290800000000000000
+      internalID: -7898705561455048164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_62
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 72
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5899b8b3d07e5e0800000000000000
+      internalID: -1880519770007566928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_63
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 157
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33daef3ad8807370800000000000000
+      internalID: 8318298982709908286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_64
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 156
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7767b35eb794361b0800000000000000
+      internalID: -5664603109826267529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_65
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 155
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f57f5d802b0fcf60800000000000000
+      internalID: 8056670492827809267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c713db305a996a0800000000000000
+      internalID: -6441936356499162054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_67
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 70
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bae473f2aaa22b0800000000000000
+      internalID: -5608483266168444038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_68
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 69
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e131d4f9eeb342520800000000000000
+      internalID: 2676329974625800990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Fidelity (Vernost') - Animals - Chicken_69
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0ffc24f81501ab0800000000000000
+      internalID: -5039438307284487965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_0: 190837026861953718
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_1: 1329415795389804884
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_10: 542952895361659330
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_11: 6407664760003091754
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_12: 7775878047193634792
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_13: -1930039791537744021
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_14: -1902299267429533072
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_15: -4384220505736738008
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_16: 3790626792233999456
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_17: 6540478175316159728
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_18: 2888159667823878195
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_19: 7385370245757245543
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_2: 1349221758425821145
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_20: -3189664197796801097
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_21: -6061722349969176695
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_22: 947977246166313910
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_23: 6568969844319393275
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_24: -811931238875347510
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_25: -719001623802984026
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_26: -9161929663905516318
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_27: -7118578611822098478
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_28: 8274351276632186620
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_29: 8477295278949395342
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_3: -5523204582012003815
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_30: -7768489235897424845
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_31: -6494719262984337821
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_32: 5281561155428601770
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_33: -1768940071121445800
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_34: -3290712702807070912
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_35: -5752600137284317778
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_36: 5100513580291946095
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_37: 3146291608482636316
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_38: 4480250019590182836
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_39: 2636963878556087825
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_4: -8048496398649975751
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_40: -6192651434886917665
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_41: 6849069104085998615
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_42: -2352012710225740997
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_43: 348991349644713677
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_44: 393798483851206848
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_45: 1032421276913588687
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_46: 7989779049979469135
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_47: -8039400719713460799
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_48: 6791490274670350381
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_49: -8383191022084734272
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_5: 6187315005693882617
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_50: -355558714781521421
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_51: -1619898839600868221
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_52: -3257426310764664813
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_53: -7140260485393693086
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_54: 2637803972657822175
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_55: -8713542728062336802
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_56: 6921858181996881197
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_57: 3918405891242795320
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_58: 8167176350435872374
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_59: 1698490635757646512
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_6: -9177573444172196227
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_60: 1984401065944735241
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_61: -7898705561455048164
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_62: -1880519770007566928
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_63: 8318298982709908286
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_64: -5664603109826267529
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_65: 8056670492827809267
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_66: -6441936356499162054
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_67: -5608483266168444038
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_68: 2676329974625800990
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_69: -5039438307284487965
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_7: -7100929131075323983
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_8: -4552175665466643489
+      PC _ Computer - Fidelity (Vernost') - Animals - Chicken_9: 7779761473525043519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
