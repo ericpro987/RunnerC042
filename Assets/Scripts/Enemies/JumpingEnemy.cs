@@ -7,12 +7,18 @@ public class JumpingEnemy : MonoBehaviour
     Rigidbody2D rb;
     void Start()
     {
+         rb = GetComponent<Rigidbody2D>();
+    }
+    private void OnEnable()
+    {
         jumpTime = Random.Range(1, 4);
-        rb = GetComponent<Rigidbody2D>();
-        rb.linearVelocity = new Vector3(-5, 0, 0);
+        GetComponent<Rigidbody2D>().linearVelocity = new Vector3(-5, 0, 0);
         StartCoroutine(Jump());
     }
-
+    private void OnDisable()
+    {
+        StopCoroutine(Jump());
+    }
     // Update is called once per frame
     void Update()
     {
@@ -22,12 +28,14 @@ public class JumpingEnemy : MonoBehaviour
     {
         if (collision.transform.tag == "Player")
         {
-            collision.transform.GetComponent<Player>().receiveDamage(1);
-            Destroy(this.gameObject);
+            Player c = collision.transform.GetComponent<Player>();
+            c.receiveDamage(1);
+            c.Particles();
+            this.gameObject.SetActive(false);
         }
         if (collision.transform.tag == "Finish")
         {
-            Destroy(this.gameObject);
+            this.gameObject.SetActive(false);
         }
     }
     IEnumerator Jump()

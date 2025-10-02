@@ -9,19 +9,24 @@ public class GiantEnemy : MonoBehaviour
     {
         rb = this.GetComponent<Rigidbody2D>();
         sr = this.GetComponent<SpriteRenderer>();
+    }
+    private void OnEnable()
+    {
         hp = 5;
     }
     private void Update()
     {
-        rb.linearVelocity = new Vector3(-1, 0, 0);
+        GetComponent<Rigidbody2D>().linearVelocity = new Vector3(-1, 0, 0);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.transform.tag == "Player")
         {
-            collision.transform.GetComponent<Player>().receiveDamage(3);
-            Destroy(this.gameObject);
+            Player c = collision.transform.GetComponent<Player>();
+            c.receiveDamage(3);
+            c.Particles();
+            this.gameObject.SetActive(false);
         }        
     }
     private void OnTriggerEnter2D(Collider2D collision)
@@ -41,7 +46,7 @@ public class GiantEnemy : MonoBehaviour
         sr.color = new Color(redColor,0,0);
         if (this.hp <= 0)
         {
-            Destroy(this.gameObject);
+            this.gameObject.SetActive(false);
         }
     }
 }

@@ -130,6 +130,7 @@ GameObject:
   - component: {fileID: 168278721}
   - component: {fileID: 168278720}
   - component: {fileID: 168278722}
+  - component: {fileID: 168278723}
   m_Layer: 0
   m_Name: Susto
   m_TagString: Untagged
@@ -217,8 +218,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: f3079186bc4ad7c4f9d2976adcfed277, type: 3}
+  m_Resource: {fileID: 8300000, guid: f3079186bc4ad7c4f9d2976adcfed277, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -226,7 +227,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 256
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -304,6 +305,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &168278723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 168278719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a21680c167edc7441876a29a6bb2af9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &610447461
 GameObject:
   m_ObjectHideFlags: 0

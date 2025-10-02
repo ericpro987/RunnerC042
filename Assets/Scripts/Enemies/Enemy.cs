@@ -3,11 +3,16 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    Rigidbody2D rb;
     void Start()
     {
-        this.GetComponent<Rigidbody2D>().linearVelocity = new Vector3 (-5, 0, 0);
+        rb = GetComponent<Rigidbody2D>();
     }
-
+    private void OnEnable()
+    {
+        //poner el GETComponent
+        GetComponent<Rigidbody2D>().linearVelocity = new Vector3 (-5, 0, 0);
+    }
     // Update is called once per frame
     void Update()
     {
@@ -17,12 +22,14 @@ public class Enemy : MonoBehaviour
     {
         if (collision.transform.tag == "Player")
         {
-            collision.transform.GetComponent<Player>().receiveDamage(1);
-            Destroy(this.gameObject);
+            Player c = collision.transform.GetComponent<Player>();
+            c.receiveDamage(1);
+            c.Particles();
+            this.gameObject.SetActive(false);
         }
         if(collision.transform.tag == "Finish")
         {
-            Destroy(this.gameObject);
+            this.gameObject.SetActive(false);
         }
     }
 }
